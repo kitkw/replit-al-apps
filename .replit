@@ -1,0 +1,4 @@
+run = ["bash", "init.sh"]
+language = "bash"
+entrypoint = "init.sh"
+
